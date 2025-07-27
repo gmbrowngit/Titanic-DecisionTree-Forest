@@ -1,0 +1,419 @@
+passengerid,pclass,sex,sibsp,parch,fare,cabin,embarked,age group
+892,3,male,0,0,7.8292,N,Q,young adult
+893,3,female,1,0,7.0,N,S,adult
+894,2,male,0,0,9.6875,N,Q,elderly
+895,3,male,0,0,8.6625,N,S,young adult
+896,3,female,1,1,12.2875,N,S,young adult
+897,3,male,0,0,9.225,N,S,teen
+898,3,female,0,0,7.6292,N,Q,young adult
+899,2,male,1,1,29.0,N,S,young adult
+900,3,female,0,0,7.2292,N,C,teen
+901,3,male,2,0,24.15,N,S,teen
+902,3,male,0,0,7.8958,N,S,N
+903,1,male,0,0,26.0,N,S,adult
+904,1,female,1,0,82.2667,B,S,young adult
+905,2,male,1,0,26.0,N,S,elderly
+906,1,female,1,0,61.175,E,S,adult
+907,2,female,1,0,27.7208,N,C,young adult
+908,2,male,0,0,12.35,N,Q,young adult
+909,3,male,0,0,7.225,N,C,teen
+910,3,female,1,0,7.925,N,S,young adult
+911,3,female,0,0,7.225,N,C,adult
+912,1,male,1,0,59.4,N,C,adult
+913,3,male,0,1,3.1708,N,S,preteen
+914,1,female,0,0,31.6833,N,S,N
+915,1,male,0,1,61.3792,N,C,teen
+916,1,female,1,3,262.375,B,C,adult
+917,3,male,1,0,14.5,N,S,adult
+918,1,female,0,1,61.9792,B,C,young adult
+919,3,male,0,0,7.225,N,C,young adult
+920,1,male,0,0,30.5,A,S,adult
+921,3,male,2,0,21.6792,N,C,N
+922,2,male,1,0,26.0,N,S,adult
+923,2,male,2,0,31.5,N,S,young adult
+924,3,female,1,2,20.575,N,S,young adult
+925,3,female,1,2,23.45,N,S,N
+926,1,male,1,0,57.75,C,C,young adult
+927,3,male,0,0,7.2292,N,C,teen
+928,3,female,0,0,8.05,N,S,N
+929,3,female,0,0,8.6625,N,S,teen
+930,3,male,0,0,9.5,N,S,young adult
+931,3,male,0,0,56.4958,N,S,N
+932,3,male,0,1,13.4167,N,C,adult
+933,1,male,0,0,26.55,D,S,N
+934,3,male,0,0,7.85,N,S,adult
+935,2,female,0,0,13.0,N,S,young adult
+936,1,female,1,0,52.5542,D,S,adult
+937,3,male,0,0,7.925,N,S,young adult
+938,1,male,0,0,29.7,A,C,adult
+939,3,male,0,0,7.75,N,Q,N
+940,1,female,0,0,76.2917,D,C,adult
+941,3,female,0,2,15.9,N,S,adult
+942,1,male,1,0,60.0,C,S,young adult
+943,2,male,0,0,15.0333,N,C,young adult
+944,2,female,2,1,23.0,N,S,teen
+945,1,female,3,2,263.0,C,S,young adult
+946,2,male,0,0,15.5792,N,C,N
+947,3,male,4,1,29.125,N,Q,preteen
+948,3,male,0,0,7.8958,N,S,young adult
+949,3,male,0,0,7.65,F,S,young adult
+950,3,male,1,0,16.1,N,S,N
+951,1,female,0,0,262.375,B,C,adult
+952,3,male,0,0,7.8958,N,S,teen
+953,2,male,0,0,13.5,N,S,young adult
+954,3,male,0,0,7.75,N,S,teen
+955,3,female,0,0,7.725,N,Q,young adult
+956,1,male,2,2,262.375,B,C,preteen
+957,2,female,0,0,21.0,N,S,N
+958,3,female,0,0,7.8792,N,Q,teen
+959,1,male,0,0,42.4,N,S,adult
+960,1,male,0,0,28.5375,C,C,young adult
+961,1,female,1,4,263.0,C,S,adult
+962,3,female,0,0,7.75,N,Q,young adult
+963,3,male,0,0,7.8958,N,S,teen
+964,3,female,0,0,7.925,N,S,young adult
+965,1,male,0,0,27.7208,D,C,young adult
+966,1,female,0,0,211.5,C,C,young adult
+967,1,male,0,0,211.5,C,C,young adult
+968,3,male,0,0,8.05,N,S,N
+969,1,female,2,0,25.7,C,S,adult
+970,2,male,0,0,13.0,N,S,young adult
+971,3,female,0,0,7.75,N,Q,young adult
+972,3,male,1,1,15.2458,N,C,preteen
+973,1,male,1,0,221.7792,C,S,elderly
+974,1,male,0,0,26.0,N,S,adult
+975,3,male,0,0,7.8958,N,S,N
+976,2,male,0,0,10.7083,N,Q,N
+977,3,male,1,0,14.4542,N,C,N
+978,3,female,0,0,7.8792,N,Q,young adult
+979,3,female,0,0,8.05,N,S,teen
+980,3,female,0,0,7.75,N,Q,N
+981,2,male,1,1,23.0,N,S,child
+982,3,female,1,0,13.9,N,S,young adult
+983,3,male,0,0,7.775,N,S,N
+984,1,female,1,2,52.0,B,S,young adult
+985,3,male,0,0,8.05,N,S,N
+986,1,male,0,0,26.0,N,C,young adult
+987,3,male,0,0,7.7958,N,S,young adult
+988,1,female,1,0,78.85,C,S,elderly
+989,3,male,0,0,7.925,N,S,young adult
+990,3,female,0,0,7.8542,N,S,teen
+991,3,male,0,0,8.05,N,S,young adult
+992,1,female,1,0,55.4417,C,C,adult
+993,2,male,1,0,26.0,N,S,young adult
+994,3,male,0,0,7.75,N,Q,N
+995,3,male,0,0,7.775,N,S,young adult
+996,3,female,1,1,8.5167,N,C,teen
+997,3,male,0,0,22.525,N,S,young adult
+998,3,male,0,0,7.8208,N,Q,teen
+999,3,male,0,0,7.75,N,Q,N
+1000,3,male,0,0,8.7125,N,S,N
+1001,2,male,0,0,13.0,F,S,teen
+1002,2,male,0,0,15.0458,N,C,adult
+1003,3,female,0,0,7.7792,N,Q,N
+1004,1,female,0,0,31.6792,A,C,adult
+1005,3,female,0,0,7.2833,N,Q,teen
+1006,1,female,1,0,221.7792,C,S,elderly
+1007,3,male,1,0,14.4542,N,C,teen
+1008,3,male,0,0,6.4375,N,C,N
+1009,3,female,1,1,16.7,G,S,child
+1010,1,male,0,0,75.2417,C,C,adult
+1011,2,female,1,0,26.0,N,S,young adult
+1012,2,female,0,0,15.75,N,S,preteen
+1013,3,male,1,0,7.75,N,Q,N
+1014,1,female,1,0,57.75,C,C,young adult
+1015,3,male,0,0,7.25,N,S,young adult
+1016,3,male,0,0,7.75,N,Q,N
+1017,3,female,0,1,16.1,N,S,teen
+1018,3,male,0,0,7.7958,N,S,young adult
+1019,3,female,2,0,23.25,N,Q,N
+1020,2,male,0,0,13.0,N,S,adult
+1021,3,male,0,0,8.05,N,S,young adult
+1022,3,male,0,0,8.05,N,S,young adult
+1023,1,male,0,0,28.5,C,C,adult
+1024,3,female,0,4,25.4667,N,S,N
+1025,3,male,1,0,6.4375,N,C,N
+1026,3,male,0,0,7.8958,N,S,adult
+1027,3,male,0,0,7.8542,N,S,young adult
+1028,3,male,0,0,7.225,N,C,young adult
+1029,2,male,0,0,13.0,N,S,young adult
+1030,3,female,0,0,8.05,N,S,young adult
+1031,3,male,1,6,46.9,N,S,adult
+1032,3,female,5,2,46.9,N,S,preteen
+1033,1,female,0,0,151.55,N,S,young adult
+1034,1,male,1,3,262.375,B,C,elderly
+1035,2,male,0,0,26.0,N,S,young adult
+1036,1,male,0,0,26.55,N,S,adult
+1037,3,male,3,0,18.0,N,S,young adult
+1038,1,male,0,0,51.8625,E,S,N
+1039,3,male,0,0,8.05,N,S,young adult
+1040,1,male,0,0,26.55,N,S,N
+1041,2,male,1,1,26.0,N,S,young adult
+1042,1,female,0,1,83.1583,C,C,young adult
+1043,3,male,0,0,7.8958,N,C,N
+1044,3,male,0,0,7.8958,N,S,elderly
+1045,3,female,0,2,12.1833,N,S,adult
+1046,3,male,4,2,31.3875,N,S,preteen
+1047,3,male,0,0,7.55,N,S,young adult
+1048,1,female,0,0,221.7792,C,S,young adult
+1049,3,female,0,0,7.8542,N,S,young adult
+1050,1,male,0,0,26.55,D,S,adult
+1051,3,female,0,2,13.775,N,S,young adult
+1052,3,female,0,0,7.7333,N,Q,N
+1053,3,male,1,1,15.2458,N,C,preteen
+1054,2,female,0,0,13.5,N,S,young adult
+1055,3,male,0,0,7.0,N,S,N
+1056,2,male,0,0,13.0,N,S,adult
+1057,3,female,1,1,22.025,N,S,young adult
+1058,1,male,0,0,50.4958,B,C,adult
+1059,3,male,2,2,34.375,N,S,teen
+1060,1,female,0,0,27.7208,N,C,N
+1061,3,female,0,0,8.9625,N,S,young adult
+1062,3,male,0,0,7.55,N,S,N
+1063,3,male,0,0,7.225,N,C,young adult
+1064,3,male,1,0,13.9,N,S,young adult
+1065,3,male,0,0,7.2292,N,C,N
+1066,3,male,1,5,31.3875,N,S,adult
+1067,2,female,0,2,39.0,N,S,teen
+1068,2,female,0,0,36.75,N,S,teen
+1069,1,male,1,0,55.4417,C,C,adult
+1070,2,female,0,3,39.0,F,S,adult
+1071,1,female,0,2,83.1583,E,C,elderly
+1072,2,male,0,0,13.0,N,S,young adult
+1073,1,male,1,1,83.1583,E,C,adult
+1074,1,female,1,0,53.1,D,S,teen
+1075,3,male,0,0,7.75,N,Q,N
+1076,1,female,1,1,247.5208,B,C,young adult
+1077,2,male,0,0,16.0,N,S,adult
+1078,2,female,0,1,21.0,N,S,teen
+1079,3,male,2,0,8.05,N,S,teen
+1080,3,female,8,2,69.55,N,S,N
+1081,2,male,0,0,13.0,N,S,adult
+1082,2,male,1,0,26.0,N,S,young adult
+1083,1,male,0,0,26.0,N,S,N
+1084,3,male,1,1,14.5,N,S,preteen
+1085,2,male,0,0,12.35,N,Q,elderly
+1086,2,male,0,2,32.5,N,S,preteen
+1087,3,male,0,0,7.8542,N,S,young adult
+1088,1,male,0,2,134.5,E,C,preteen
+1089,3,female,0,0,7.775,N,S,teen
+1090,2,male,0,0,10.5,N,S,young adult
+1091,3,female,0,0,8.1125,N,S,N
+1092,3,female,0,0,15.5,N,Q,N
+1093,3,male,0,2,14.4,N,S,child
+1094,1,male,1,0,227.525,C,C,adult
+1095,2,female,1,1,26.0,N,S,preteen
+1096,2,male,0,0,10.5,N,S,young adult
+1097,1,male,0,0,25.7417,N,C,N
+1098,3,female,0,0,7.75,N,Q,young adult
+1099,2,male,0,0,10.5,N,S,young adult
+1100,1,female,0,0,27.7208,A,C,young adult
+1101,3,male,0,0,7.8958,N,S,young adult
+1102,3,male,0,0,22.525,N,S,young adult
+1103,3,male,0,0,7.05,N,S,N
+1104,2,male,0,0,73.5,N,S,teen
+1105,2,female,1,0,26.0,N,S,adult
+1106,3,female,4,2,7.775,N,S,adult
+1107,1,male,0,0,42.5,B,S,adult
+1108,3,female,0,0,7.8792,N,Q,N
+1109,1,male,1,1,164.8667,N,S,adult
+1110,1,female,1,1,211.5,C,C,adult
+1111,3,male,0,0,8.05,N,S,N
+1112,2,female,1,0,13.8583,N,C,young adult
+1113,3,male,0,0,8.05,N,S,teen
+1114,2,female,0,0,10.5,F,S,young adult
+1115,3,male,0,0,7.7958,N,S,teen
+1116,1,female,0,0,27.4458,N,C,adult
+1117,3,female,0,2,15.2458,N,C,N
+1118,3,male,0,0,7.7958,N,S,young adult
+1119,3,female,0,0,7.75,N,Q,N
+1120,3,male,0,0,15.1,N,S,adult
+1121,2,male,0,0,13.0,N,S,adult
+1122,2,male,0,0,65.0,N,S,teen
+1123,1,female,0,0,26.55,N,S,teen
+1124,3,male,1,0,6.4958,N,S,teen
+1125,3,male,0,0,7.8792,N,Q,N
+1126,1,male,1,0,71.2833,C,C,adult
+1127,3,male,0,0,7.8542,N,S,teen
+1128,1,male,1,0,75.25,D,C,elderly
+1129,3,male,0,0,7.225,N,C,teen
+1130,2,female,1,1,13.0,N,S,teen
+1131,1,female,1,0,106.425,C,C,adult
+1132,1,female,0,0,27.7208,N,C,adult
+1133,2,female,0,2,30.0,N,S,adult
+1134,1,male,1,1,134.5,E,C,adult
+1135,3,male,0,0,7.8875,N,S,N
+1136,3,male,1,2,23.45,N,S,N
+1137,1,male,1,0,51.8625,D,S,adult
+1138,2,female,0,0,21.0,N,S,young adult
+1139,2,male,1,1,32.5,N,S,adult
+1140,2,female,1,0,26.0,N,S,young adult
+1141,3,female,1,0,14.4542,N,C,N
+1142,2,female,1,2,27.75,N,S,child
+1143,3,male,0,0,7.925,N,S,teen
+1144,1,male,1,0,136.7792,C,C,young adult
+1145,3,male,0,0,9.325,N,S,young adult
+1146,3,male,0,0,9.5,N,S,young adult
+1147,3,male,0,0,7.55,N,S,N
+1148,3,male,0,0,7.75,N,Q,N
+1149,3,male,0,0,8.05,N,S,young adult
+1150,2,female,0,0,13.0,N,S,teen
+1151,3,male,0,0,7.775,N,S,teen
+1152,3,male,1,0,17.4,N,S,adult
+1153,3,male,0,0,7.8542,N,S,teen
+1154,2,female,0,2,23.0,N,S,young adult
+1155,3,female,1,1,12.1833,N,S,child
+1156,2,male,0,0,12.7375,N,C,young adult
+1157,3,male,0,0,7.8958,N,S,N
+1158,1,male,0,0,0.0,N,S,N
+1159,3,male,0,0,7.55,N,S,N
+1160,3,female,0,0,8.05,N,S,N
+1161,3,male,0,0,8.6625,N,S,teen
+1162,1,male,0,0,75.2417,C,C,adult
+1163,3,male,0,0,7.75,N,Q,N
+1164,1,female,1,0,136.7792,C,C,young adult
+1165,3,female,1,0,15.5,N,Q,N
+1166,3,male,0,0,7.225,N,C,N
+1167,2,female,1,0,26.0,N,S,teen
+1168,2,male,0,0,10.5,N,S,young adult
+1169,2,male,1,0,26.0,N,S,adult
+1170,2,male,1,0,21.0,N,S,young adult
+1171,2,male,0,0,10.5,N,S,young adult
+1172,3,female,0,0,8.6625,N,S,young adult
+1173,3,male,1,1,13.775,N,S,child
+1174,3,female,0,0,7.75,N,Q,N
+1175,3,female,1,1,15.2458,N,C,preteen
+1176,3,female,1,1,20.2125,N,S,child
+1177,3,male,0,0,7.25,N,S,adult
+1178,3,male,0,0,7.25,N,S,N
+1179,1,male,1,0,82.2667,B,S,young adult
+1180,3,male,0,0,7.2292,F,C,N
+1181,3,male,0,0,8.05,N,S,N
+1182,1,male,0,0,39.6,N,S,N
+1183,3,female,0,0,6.95,N,Q,young adult
+1184,3,male,0,0,7.2292,N,C,N
+1185,1,male,1,1,81.8583,A,S,adult
+1186,3,male,0,0,9.5,N,S,adult
+1187,3,male,0,0,7.8958,N,S,young adult
+1188,2,female,1,2,41.5792,N,C,child
+1189,3,male,2,0,21.6792,N,C,N
+1190,1,male,0,0,45.5,N,S,young adult
+1191,3,male,0,0,7.8542,N,S,young adult
+1192,3,male,0,0,7.775,N,S,young adult
+1193,2,male,0,0,15.0458,D,C,N
+1194,2,male,0,1,21.0,N,S,adult
+1195,3,male,0,0,8.6625,N,S,young adult
+1196,3,female,0,0,7.75,N,Q,N
+1197,1,female,1,1,26.55,B,S,elderly
+1198,1,male,1,2,151.55,C,S,young adult
+1199,3,male,0,1,9.35,N,S,child
+1200,1,male,1,1,93.5,B,S,adult
+1201,3,female,1,0,14.1083,N,S,adult
+1202,3,male,0,0,8.6625,N,S,teen
+1203,3,male,0,0,7.225,N,C,young adult
+1204,3,male,0,0,7.575,N,S,N
+1205,3,female,0,0,7.75,N,Q,adult
+1206,1,female,0,0,135.6333,C,C,adult
+1207,3,female,0,0,7.7333,N,Q,teen
+1208,1,male,1,0,146.5208,B,C,adult
+1209,2,male,0,0,10.5,N,S,teen
+1210,3,male,0,0,7.8542,N,S,young adult
+1211,2,male,2,0,31.5,N,S,young adult
+1212,3,male,0,0,7.775,N,S,young adult
+1213,3,male,0,0,7.2292,F,C,young adult
+1214,2,male,0,0,13.0,F,S,young adult
+1215,1,male,0,0,26.55,N,S,young adult
+1216,1,female,0,0,211.3375,N,S,adult
+1217,3,male,0,0,7.05,N,S,young adult
+1218,2,female,2,1,39.0,F,S,preteen
+1219,1,male,0,0,79.2,N,C,adult
+1220,2,male,1,0,26.0,N,S,young adult
+1221,2,male,0,0,13.0,N,S,teen
+1222,2,female,0,2,36.75,N,S,adult
+1223,1,male,0,0,29.7,A,C,adult
+1224,3,male,0,0,7.225,N,C,N
+1225,3,female,1,1,15.7417,N,C,teen
+1226,3,male,0,0,7.8958,N,S,young adult
+1227,1,male,0,0,26.0,C,S,young adult
+1228,2,male,0,0,13.0,N,S,young adult
+1229,3,male,0,2,7.2292,N,C,adult
+1230,2,male,0,0,31.5,N,S,young adult
+1231,3,male,0,0,7.2292,N,C,N
+1232,2,male,0,0,10.5,N,S,teen
+1233,3,male,0,0,7.5792,N,S,young adult
+1234,3,male,1,9,69.55,N,S,N
+1235,1,female,0,1,512.3292,B,C,adult
+1236,3,male,1,1,14.5,N,S,N
+1237,3,female,0,0,7.65,N,S,teen
+1238,2,male,0,0,13.0,N,S,young adult
+1239,3,female,0,0,7.2292,N,C,adult
+1240,2,male,0,0,13.5,N,S,young adult
+1241,2,female,0,0,21.0,N,S,young adult
+1242,1,female,0,1,63.3583,D,C,adult
+1243,2,male,0,0,10.5,N,S,young adult
+1244,2,male,0,0,73.5,N,S,teen
+1245,2,male,1,2,65.0,N,S,adult
+1246,3,female,1,2,20.575,N,S,child
+1247,1,male,0,0,26.0,E,S,adult
+1248,1,female,2,0,51.4792,C,S,adult
+1249,3,male,0,0,7.8792,N,S,N
+1250,3,male,0,0,7.75,N,Q,N
+1251,3,female,1,0,15.55,N,S,young adult
+1252,3,male,8,2,69.55,N,S,teen
+1253,2,female,1,1,37.0042,N,C,young adult
+1254,2,female,0,0,21.0,N,S,young adult
+1255,3,male,0,0,8.6625,N,S,young adult
+1256,1,female,1,0,55.4417,E,C,young adult
+1257,3,female,1,9,69.55,N,S,N
+1258,3,male,1,0,14.4583,N,C,N
+1259,3,female,0,0,39.6875,N,S,young adult
+1260,1,female,0,1,59.4,N,C,adult
+1261,2,male,0,0,13.8583,N,C,young adult
+1262,2,male,1,0,11.5,N,S,teen
+1263,1,female,0,0,134.5,E,C,young adult
+1264,1,male,0,0,0.0,B,S,adult
+1265,2,male,0,0,13.0,N,S,adult
+1266,1,female,1,1,81.8583,A,S,adult
+1267,1,female,0,0,262.375,N,C,adult
+1268,3,female,2,0,8.6625,N,S,young adult
+1269,2,male,0,0,11.5,N,S,teen
+1270,1,male,0,0,50.0,C,S,adult
+1271,3,male,4,2,31.3875,N,S,child
+1272,3,male,0,0,7.75,N,Q,N
+1273,3,male,0,0,7.8792,N,Q,young adult
+1274,3,female,0,0,14.5,N,S,N
+1275,3,female,1,0,16.1,N,S,teen
+1276,2,male,0,0,12.875,N,S,N
+1277,2,female,1,2,65.0,N,S,young adult
+1278,3,male,0,0,7.775,N,S,young adult
+1279,2,male,0,0,13.0,N,S,adult
+1280,3,male,0,0,7.75,N,Q,teen
+1281,3,male,3,1,21.075,N,S,preteen
+1282,1,male,0,0,93.5,B,S,young adult
+1283,1,female,0,1,39.4,D,S,adult
+1284,3,male,0,2,20.25,N,S,preteen
+1285,2,male,0,0,10.5,N,S,adult
+1286,3,male,3,1,22.025,N,S,young adult
+1287,1,female,1,0,60.0,C,S,teen
+1288,3,male,0,0,7.25,N,Q,young adult
+1289,1,female,1,1,79.2,B,C,adult
+1290,3,male,0,0,7.775,N,S,young adult
+1291,3,male,0,0,7.7333,N,Q,young adult
+1292,1,female,0,0,164.8667,C,S,young adult
+1293,2,male,1,0,21.0,N,S,adult
+1294,1,female,0,1,59.4,N,C,young adult
+1295,1,male,0,0,47.1,N,S,teen
+1296,1,male,1,0,27.7208,D,C,adult
+1297,2,male,0,0,13.8625,D,C,teen
+1298,2,male,1,0,10.5,N,S,young adult
+1299,1,male,1,1,211.5,C,C,adult
+1300,3,female,0,0,7.7208,N,Q,N
+1301,3,female,1,1,13.775,N,S,child
+1302,3,female,0,0,7.75,N,Q,N
+1303,1,female,1,0,90.0,C,Q,adult
+1304,3,female,0,0,7.775,N,S,young adult
+1305,3,male,0,0,8.05,N,S,N
+1306,1,female,0,0,108.9,C,C,adult
+1307,3,male,0,0,7.25,N,S,adult
+1308,3,male,0,0,8.05,N,S,N
+1309,3,male,1,1,22.3583,N,C,N
